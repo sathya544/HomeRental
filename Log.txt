@@ -1,0 +1,481 @@
+
+NAME: suraksha
+PHONE: 7896546778
+IC: 1
+HOME: PDC602
+PLACE: SULLIYA
+NUMBER: 9873648379
+MONTHS: 7
+PAYMENT: 36000
+DATE: 28/07/2021 TIME: 00:31:58
+==========================================================
+NAME: bhavya
+PHONE: 9902836453
+IC: 2
+HOME: LA34
+PLACE: BELTHANGADY
+NUMBER: 9022872257
+MONTHS: 4
+PAYMENT: 22000
+DATE: 28/07/2021 TIME: 00:40:33
+==========================================================
+NAME: bhavya
+PHONE: 9902836453
+IC: 2
+CAR: JIM111
+BRAND: MANGALORE
+MODEL: 7896340023
+HOUR: 2
+PAYMENT: 9000
+DATE: 28/07/2021 TIME: 00:42:34
+==========================================================
+NAME: pushpa
+PHONE: 9870002323
+IC: 3
+HOME: JHR1609
+PLACE: KADABA
+NUMBER: 7712312355
+MONTHS: 6
+PAYMENT: 36000
+DATE: 28/07/2021 TIME: 00:57:01
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+HOME: YGF546
+PLACE: ADYAR
+NUMBER: 7689765433
+MONTHS: 5
+PAYMENT: 7500
+DATE: 28/07/2021 TIME: 00:58:16
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOME: WLN7812
+PLACE: MANGALORE
+NUMBER: 8897345567
+MONTHS: 2
+PAYMENT: 6000
+DATE: 28/07/2021 TIME: 01:02:14
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+CAR: LA34
+BRAND: BELTHANGADY
+MODEL: 9022872257
+HOUR: 2
+PAYMENT: 11000
+DATE: 28/07/2021 TIME: 01:03:39
+==========================================================
+NAME: pushpa
+PHONE: 9870002323
+IC: 3
+CAR: NAH1234
+BRAND: BANTWAL
+MODEL: 9934778900
+HOUR: 5
+PAYMENT: 35000
+DATE: 28/07/2021 TIME: 01:05:25
+==========================================================
+NAME: suraksha
+PHONE: 7896546778
+IC: 1
+CAR: AEX7954
+BRAND: MANGALORE
+MODEL: 7726889333
+HOUR: 7
+PAYMENT: 28300
+DATE: 28/07/2021 TIME: 01:08:06
+==========================================================
+NAME: bhavya
+PHONE: 9902836453
+IC: 2
+CAR: DAT9372
+BRAND: PUTTUR
+MODEL: 9900234567
+HOUR: 2
+PAYMENT: 10000
+DATE: 28/07/2021 TIME: 01:09:45
+==========================================================
+NAME: Shravya
+PHONE: 9837465432
+IC: 5
+HOME: PDC602
+PLACE: SULLIYA
+NUMBER: 9873648379
+MONTHS: 8
+PAYMENT: 42000
+DATE: 29/07/2021 TIME: 10:31:04
+==========================================================
+NAME: Shravya
+PHONE: 9837465432
+IC: 5
+CAR: YGF546
+BRAND: ADYAR
+MODEL: 7689765433
+HOUR: 9
+PAYMENT: 13500
+DATE: 29/07/2021 TIME: 11:25:53
+==========================================================
+NAME: pushpa
+PHONE: 9870002323
+IC: 3
+DATE: 18/08/2021 TIME: 11:25:55
+==========================================================
+NAME: pushpa
+PHONE: 9870002323
+IC: 3
+DATE: 18/08/2021 TIME: 15:55:18
+==========================================================
+NAME: Sampreetha
+PHONE: 7766524199
+IC: 2
+HOME: JHR1610
+PLACE: MANGALORE
+NUMBER: 8733426789
+MONTHS: 2
+PAYMENT: 7000
+DATE: 18/08/2021 TIME: 15:58:02
+==========================================================
+NAME: Tanuj
+PHONE: 8722300297
+IC: 3
+HOME: JIM111
+PLACE: MANGALORE
+NUMBER: 7896340023
+MONTHS: 2
+PAYMENT: 9000
+DATE: 18/08/2021 TIME: 23:51:57
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+HOUSE NUMBER: 34RD98
+PLACE: ADYAR
+PHONE NUMBER: 9732771254
+MONTHS: 2
+PAYMENT: 8000
+DATE: 24/08/2021 TIME: 09:56:48
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+HOUSE NUMBER: YUG5567
+PLACE: ADYAR
+PHONE NUMBER: 9834567364
+MONTHS: 7
+PAYMENT: 18000
+DATE: 24/08/2021 TIME: 10:04:03
+==========================================================
+NAME: Yathish
+PHONE: 8273645342
+IC: 6
+HOME: NAH1234
+PLACE: BANTWAL
+NUMBER: 9934778900
+MONTHS: 7
+PAYMENT: 47000
+DATE: 24/08/2021 TIME: 10:06:28
+==========================================================
+NAME: Shravya
+PHONE: 9837465432
+IC: 5
+HOUSE NUMBER: JHR1610
+PLACE: MANGALORE
+PHONE NUMBER: 8733426789
+MONTHS: 8
+PAYMENT: 27000
+DATE: 24/08/2021 TIME: 10:12:15
+==========================================================
+NAME: Tanuj
+PHONE: 8722300297
+IC: 3
+HOUSE NUMBER: 34RD98
+PLACE: ADYAR
+PHONE NUMBER: 9732771254
+MONTHS: 9
+PAYMENT: 32000
+DATE: 24/08/2021 TIME: 10:20:18
+==========================================================
+NAME: bhavya
+PHONE: 9902836453
+IC: 2
+HOUSE NUMBER: PJG9337
+PLACE: BANTWAL
+PHONE NUMBER: 8934768922
+MONTHS: 8
+PAYMENT: 41000
+DATE: 24/08/2021 TIME: 10:21:55
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+HOUSE NUMBER: AEX7954
+PLACE: MANGALORE
+PHONE NUMBER: 7726889333
+MONTHS: 8
+PAYMENT: 32600
+DATE: 24/08/2021 TIME: 10:28:21
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+HOUSE NUMBER: JHR1609
+PLACE: KADABA
+PHONE NUMBER: 7712312355
+MONTHS: 7
+PAYMENT: 42500
+DATE: 24/08/2021 TIME: 10:29:28
+==========================================================
+NAME: Sampreetha
+PHONE: 7766524199
+IC: 2
+HOUSE NUMBER: PDC602
+PLACE: SULLIYA
+PHONE NUMBER: 9873648379
+MONTHS: 9
+PAYMENT: 48000
+DATE: 24/08/2021 TIME: 10:31:16
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: JIM111
+PLACE: MANGALORE
+PHONE NUMBER: 7896340023
+MONTHS: 2
+PAYMENT: 9000
+DATE: 24/08/2021 TIME: 10:44:34
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: 76YT34
+PLACE: PUTTUR
+PHONE NUMBER: 7635874298
+MONTHS: 5
+PAYMENT: 5000
+DATE: 24/08/2021 TIME: 10:48:57
+==========================================================
+NAME: Shravya
+PHONE: 9837465432
+IC: 5
+HOUSE NUMBER: 76YT34
+PLACE: PUTTUR
+PHONE NUMBER: 7635874298
+MONTHS: 2
+PAYMENT: 2000
+DATE: 24/08/2021 TIME: 10:50:43
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: JHR1610
+PLACE: MANGALORE
+PHONE NUMBER: 8733426789
+MONTHS: 6
+PAYMENT: 20000
+DATE: 24/08/2021 TIME: 11:07:42
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+HOUSE NUMBER: JIM111
+PLACE: MANGALORE
+PHONE NUMBER: 7896340023
+MONTHS: 1
+PAYMENT: 4500
+DATE: 24/08/2021 TIME: 11:16:56
+==========================================================
+NAME: ram
+PHONE: 7892224066
+IC: 4
+HOUSE NUMBER: 44FR11
+PLACE: PUTTUR
+PHONE NUMBER: 9876233455
+MONTHS: 1
+PAYMENT: 3000
+DATE: 24/08/2021 TIME: 11:24:08
+==========================================================
+NAME: Sampreetha
+PHONE: 7766524199
+IC: 2
+HOUSE NUMBER: 34SD12
+PLACE: VALACHIL
+PHONE NUMBER: 9822345664
+MONTHS: 2
+PAYMENT: 4600
+DATE: 24/08/2021 TIME: 11:34:11
+==========================================================
+NAME: pushpa
+PHONE: 9870002323
+IC: 3
+HOUSE NUMBER: PDC602
+PLACE: SULLIYA
+PHONE NUMBER: 9873648379
+MONTHS: 7
+PAYMENT: 36000
+DATE: 25/08/2021 TIME: 09:33:19
+==========================================================
+NAME: pushpa
+PHONE: 9870002323
+IC: 3
+HOUSE NUMBER: 67TW99
+PLACE: ADYAR
+PHONE NUMBER: 9876543232
+MONTHS: 7
+PAYMENT: 18000
+DATE: 25/08/2021 TIME: 09:36:01
+==========================================================
+NAME: pushpa
+PHONE: 9870002323
+IC: 3
+HOUSE NUMBER: PDC602
+PLACE: SULLIYA
+PHONE NUMBER: 9873648379
+MONTHS: 7
+PAYMENT: 36000
+DATE: 25/08/2021 TIME: 09:37:59
+==========================================================
+NAME: bhavya
+PHONE: 9902836453
+IC: 2
+HOUSE NUMBER: JHR1610
+PLACE: MANGALORE
+PHONE NUMBER: 8733426789
+MONTHS: 4
+PAYMENT: 14000
+DATE: 25/08/2021 TIME: 09:40:52
+==========================================================
+NAME: Tanuj
+PHONE: 8722300297
+IC: 3
+HOUSE NUMBER: PDC602
+PLACE: SULLIYA
+PHONE NUMBER: 9873648379
+MONTHS: 2
+PAYMENT: 12000
+DATE: 25/08/2021 TIME: 09:52:09
+==========================================================
+NAME: Varun
+PHONE: 8765433567
+IC: 5
+HOME: DAT9372
+PLACE: PUTTUR
+NUMBER: 9900234567
+MONTHS: 2
+PAYMENT: 10000
+DATE: 25/08/2021 TIME: 10:06:23
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: PDC602
+PLACE: SULLIYA
+PHONE NUMBER: 9873648379
+MONTHS: 2
+PAYMENT: 12000
+DATE: 25/08/2021 TIME: 10:34:01
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: 77WE01
+PLACE: ADYAR
+PHONE NUMBER: 8738273800
+MONTHS: 3
+PAYMENT: 9000
+DATE: 25/08/2021 TIME: 10:44:36
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: 89UI00
+PLACE: BANTWAL
+PHONE NUMBER: 8965432134
+MONTHS: 2
+PAYMENT: 8000
+DATE: 25/08/2021 TIME: 10:50:55
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: PDC602
+PLACE: SULLIYA
+PHONE NUMBER: 9873648379
+MONTHS: 2
+PAYMENT: 12000
+DATE: 25/08/2021 TIME: 10:54:25
+==========================================================
+NAME: Samanvi
+PHONE: 9879873233
+IC: 3
+HOME: WLN7812
+PLACE: MANGALORE
+NUMBER: 8897345567
+MONTHS: 4
+PAYMENT: 12000
+DATE: 25/08/2021 TIME: 10:59:06
+==========================================================
+NAME: Samanvi
+PHONE: 9879873233
+IC: 3
+HOUSE NUMBER: AEX7954
+PLACE: MANGALORE
+PHONE NUMBER: 7726889333
+MONTHS: 1
+PAYMENT: 4300
+DATE: 25/08/2021 TIME: 11:00:47
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: WLN7812
+PLACE: MANGALORE
+PHONE NUMBER: 8897345567
+MONTHS: 3
+PAYMENT: 9000
+DATE: 25/08/2021 TIME: 11:17:32
+==========================================================
+NAME: Gagan
+PHONE: 9908776556
+IC: 8
+HOME: 57YT22
+PLACE: VITLA
+NUMBER: 8809654322
+MONTHS: 3
+PAYMENT: 18000
+DATE: 25/08/2021 TIME: 11:22:20
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: 56YT77
+PLACE: SULLIYA
+PHONE NUMBER: 9800076533
+MONTHS: 7
+PAYMENT: 27000
+DATE: 25/08/2021 TIME: 12:29:58
+==========================================================
+NAME: Mamatha
+PHONE: 8720484629
+IC: 5
+HOME: 63TT98
+PLACE: MANGALORE
+NUMBER: 7628366422
+MONTHS: 8
+PAYMENT: 54000
+DATE: 25/08/2021 TIME: 12:39:54
+==========================================================
+NAME: jaggu
+PHONE: 7768330044
+IC: 4
+HOUSE NUMBER: AEX7954
+PLACE: MANGALORE
+PHONE NUMBER: 7726889333
+MONTHS: 3
+PAYMENT: 12900
+DATE: 25/08/2021 TIME: 14:13:47
+==========================================================

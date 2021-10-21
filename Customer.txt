@@ -1,0 +1,14 @@
+1001;suraksha;7896546778;1;atthavara
+1002;bhavya;9902836453;2;udupi
+1003;pushpa;9870002323;3;karwar
+1004;ram;7892224066;4;sulliya
+1005;jaggu;7768330044;4;druega
+1006;Shravya;9837465432;5;thalapady
+1007;Sampreetha;7766524199;2;Putter
+1008;Tanuj;8722300297;3;Vitla
+1009;Yathish;8273645342;6;Mangalore
+1010;Savi;8723947294;1;Bangalore
+1011;Varun;8765433567;5;Sulliya
+1012;Samanvi;9879873233;3;Mangalore
+1013;Gagan;9908776556;8;Maani
+1014;Mamatha;8720484629;5;Maani
